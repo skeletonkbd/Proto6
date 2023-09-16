@@ -1,0 +1,9 @@
+[submodule "PCB/Library/MX_V2"]
+	path = PCB/Library/MX_V2
+	url = https://github.com/ai03-2725/MX_V2.git
+[submodule "PCB/Library/OPL_Kicad_Library"]
+	path = PCB/Library/OPL_Kicad_Library
+	url = https://github.com/Seeed-Studio/OPL_Kicad_Library.git
+[submodule "PCB/Library/Keebio-Parts.pretty"]
+	path = PCB/Library/Keebio-Parts.pretty
+	url = https://github.com/keebio/Keebio-Parts.pretty.git
